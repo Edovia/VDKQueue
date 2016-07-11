@@ -23,7 +23,7 @@
 #import <unistd.h>
 #import <fcntl.h>
 #include <sys/stat.h>
-
+@import AppKit;
 
 
 NSString * VDKQueueRenameNotification = @"VDKQueueFileRenamedNotification";
